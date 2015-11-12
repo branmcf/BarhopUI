@@ -88,6 +88,16 @@ form{
     background-color: #f3f3f3;
 }
 
+img.displayed {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
+span.displayed2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
+
 #thumbnailwrapper {
     color:#2A2A2A;margin-right:5px;
     border-radius:0.2em;
@@ -143,4 +153,10 @@ i{
 
 #plz{
     margin: 0 auto;
+}
+
+#displayed2{
+    display: block;
+    margin-left: auto;
+    margin-right: auto 
 }
